@@ -16,8 +16,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        horizontalInput = Input.GetAxis("Horizontal");
-        VerticalInput = Input.GetAxis("Vertical");
+        horizontalInput = Input.GetAxis("Horizontal1");
+        VerticalInput = Input.GetAxis("Vertical1");
         transform.Translate(Vector3.forward * Time.deltaTime * speed * VerticalInput);
         transform.Rotate(Vector3.up * Time.deltaTime * turnspeed * horizontalInput);
     }
