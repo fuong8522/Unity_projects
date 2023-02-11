@@ -59,11 +59,12 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Camerafollow.cs" />
     <Compile Include="Assets\Scripts\SwitchCamera.cs" />
+    <Compile Include="Assets\Scripts\SwitchCamera2.cs" />
     <Compile Include="Assets\Challenge 1\Scripts\PlayerControllerX.cs" />
     <Compile Include="Assets\Challenge 1\Scripts\FollowPlayerX.cs" />
-    <Compile Include="Assets\Scripts\Oncommingverhicle.cs" />
     <Compile Include="Assets\Scripts\PlayerController2.cs" />
-    <Compile Include="Assets\Scripts\SwitchCamera2.cs" />
+    <Compile Include="Assets\Scripts\Oncommingverhicle.cs" />
+    <Compile Include="Assets\Export\Scripts\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />

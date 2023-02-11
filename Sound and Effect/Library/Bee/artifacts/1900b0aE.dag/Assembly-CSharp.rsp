@@ -349,9 +349,16 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Challenge 3/Scripts/MoveLeftX.cs"
+"Assets/Challenge 3/Scripts/PlayerControllerX.cs"
+"Assets/Challenge 3/Scripts/RepeatBackgroundX.cs"
+"Assets/Challenge 3/Scripts/SpawnManagerX.cs"
+"Assets/Challenge 3/_Source_Files/SpinObjectsX.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/ManagerSpawn.cs"
 "Assets/Scripts/MoveLeft.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/RepeatBackground.cs"
 -langversion:9.0
 
 /deterministic

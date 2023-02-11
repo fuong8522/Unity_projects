@@ -56,16 +56,16 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Prototype2\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Prototype2\Scripts\MoveForward.cs" />
-    <Compile Include="Assets\Prototype2\Scripts\DestroyOutOfBround.cs" />
-    <Compile Include="Assets\Prototype2\Scripts\ManagerSpawn.cs" />
-    <Compile Include="Assets\Prototype2\Scripts\DetecCollision.cs" />
+    <Compile Include="Assets\Challenge 2\Scripts\DetectCollisionsX.cs" />
     <Compile Include="Assets\Challenge 2\Scripts\PlayerControllerX.cs" />
     <Compile Include="Assets\Challenge 2\Scripts\DestroyOutOfBoundsX.cs" />
-    <Compile Include="Assets\Challenge 2\Scripts\DetectCollisionsX.cs" />
-    <Compile Include="Assets\Challenge 2\Scripts\MoveForwardX.cs" />
+    <Compile Include="Assets\Prototype2\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Prototype2\Scripts\DetecCollision.cs" />
     <Compile Include="Assets\Challenge 2\Scripts\SpawnManagerX.cs" />
+    <Compile Include="Assets\Challenge 2\Scripts\MoveForwardX.cs" />
+    <Compile Include="Assets\Prototype2\Scripts\DestroyOutOfBround.cs" />
+    <Compile Include="Assets\Prototype2\Scripts\MoveForward.cs" />
+    <Compile Include="Assets\Prototype2\Scripts\ManagerSpawn.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
