@@ -57,6 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Export\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Export\Scripts\MoveDown.cs" />
+    <Compile Include="Assets\Export\Scripts\SpawnManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
